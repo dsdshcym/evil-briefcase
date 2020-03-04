@@ -103,7 +103,7 @@
 
 ;;;###autoload
 (define-minor-mode evil-briefcase-mode
-  :lighter " evil-briefcase"
+  "Evil Briefcase Mode"
   )
 
 (provide 'evil-briefcase)
